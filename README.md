@@ -14,4 +14,12 @@ git clone https://github.com/KowalikDominik/react-query.git
 
 ### 2. yarn
 
+```
+yarn
+```
+
 ### 3. yarn start
+
+```
+yarn start
+```
