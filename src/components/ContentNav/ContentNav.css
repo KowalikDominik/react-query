@@ -1,0 +1,10 @@
+.nav-link {
+  border: 1px solid white;
+  color: white;
+  margin-right: 5px;
+}
+.nav-pills .nav-link.active {
+  border: unset;
+  background-color: #ffc107 !important;
+  color: black !important;
+}
