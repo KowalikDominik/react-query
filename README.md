@@ -6,14 +6,12 @@ Open [https://kowalikdominik.github.io/react-query/](https://kowalikdominik.gith
 
 ## Gettting started
 
-### `git clone`
+### 1. git clone
 
 ```
 git clone https://github.com/KowalikDominik/react-query.git
 ```
 
-### `yarn`
+### 2. yarn
 
-### `yarn start`
-
-### `yarn build`
+### 3. yarn start
